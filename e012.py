@@ -1,1 +1,1 @@
-print("Este es el archivo nuevo del proyecto prueba-VSCODE")
+print("Este es el archivo nuevo del proyecto de prueba-VSCODE")
